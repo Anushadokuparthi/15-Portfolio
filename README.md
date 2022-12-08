@@ -7,7 +7,7 @@ Portfolio
 ### Time Taken
 - 3 hours
 
-## [Deployment Link]([https://anusha-testportfolio.netlify.app/)
+## [Deployment Link]([https://anusha-testportfolio.netlify.app/])
 
 
 ### Output
